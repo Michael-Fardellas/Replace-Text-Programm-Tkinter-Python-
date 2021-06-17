@@ -10,7 +10,7 @@
  <br />
  <br />
  
- ## How to install the code ⬇️##
+ ## How to install the code ⬇️ ##
  
   Install the code from the github repostitory and get the ` Replace text.pyw` file and run it on an IDE like [Sublime Text](sublimetext.com) or [Visual studio code](visualstudio.com).The only library that its imported is Tkinter(to make the GUI) which comes preinstalled with Python. If you dont have python installed install it here [python](Python.org)
   
